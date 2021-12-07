@@ -1,12 +1,20 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": "Uchenna Obidike",
+	"description": "My freecode camp challenge",
+	"keywords":["freecodecamp", "beginner", "node.js"],
+	"license": "MIT",
+	"version": "1.0.0",
+
 	"dependencies": {
 		"express": "^4.14.0"
 	},
+
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
 	},
+
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
